@@ -1,0 +1,44 @@
+h2{
+    font-family: 'Lobster', cursive; 
+    font-size: 70px;
+}
+body{
+    background-color: #fefae0; 
+    color:#111D13 ;
+}
+
+.recipesStyle{
+    height:230px ;
+}
+.btn{
+    background-color:#656D4A;
+    transition: all;
+   transition-duration: 1s;
+}
+.btn:hover{
+    background-color:#323625;
+}
+.navbar{
+   
+    position: fixed;
+    width: 100%;
+}
+
+#img{
+    border-radius: 15px;
+}
+
+header{
+     height: 100vh;
+     width: 100%;
+    background-image: url(../img/bg2\ \(2\).jpg);
+    background-size: 100% 100%;
+}
+
+#h3{
+    font-family: 'Lobster', cursive;
+}
+
+.container h2{
+    color: #656D4A;
+}
